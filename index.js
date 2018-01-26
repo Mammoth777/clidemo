@@ -1,4 +1,4 @@
-#!/usr/bin / env node
+#!/usr/bin/env node
 const fs = require('fs');
 const cwd = process.cwd(); // current Work Directory
 const path = require('path');
